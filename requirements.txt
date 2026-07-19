@@ -1,0 +1,9 @@
+numpy>=1.26
+scipy>=1.11
+scikit-learn>=1.4
+scikit-image>=0.22
+mahotas>=1.4.18
+matplotlib>=3.8
+pillow>=10.0
+pandas>=2.1
+tqdm>=4.66
